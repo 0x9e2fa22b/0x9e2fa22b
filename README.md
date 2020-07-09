@@ -1,5 +1,9 @@
 ### Hi there 👋
-<img width="300px" src="https://firebasestorage.googleapis.com/v0/b/cosme-56b6e.appspot.com/o/totoro.png?alt=media&token=46e26cb3-4d1d-4c34-803c-a4bcd83c34ed">
+<p align="center">
+  <a href="">
+    <img width="300px" src="https://camo.githubusercontent.com/debcb7174238a3a7883bd42c43abdcbc78442443/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f636f736d652d35366236652e61707073706f742e636f6d2f6f2f746f746f726f2e706e673f616c743d6d6564696126746f6b656e3d63616530356262392d663866652d346462382d616632632d623766313539616530376534">
+  </a>
+</p>
 <!--
 **CaoHuy26/CaoHuy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
