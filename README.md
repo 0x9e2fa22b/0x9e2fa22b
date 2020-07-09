@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img width="300px" src="https://firebasestorage.googleapis.com/v0/b/cosme-56b6e.appspot.com/o/totoro.png?alt=media&token=46e26cb3-4d1d-4c34-803c-a4bcd83c34ed">
 <!--
 **CaoHuy26/CaoHuy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
