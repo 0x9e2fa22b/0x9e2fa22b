@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <img src="https://user-images.githubusercontent.com/33257682/123519961-7d654180-d6d8-11eb-9116-1fa509bb16ce.gif" width="240px" align="center">
 </p>
 
 <!-- [![CaoHuy26's github stats](https://github-readme-stats.vercel.app/api?username=CaoHuy26&show_icons=true&hide_border=true)](https://github.com/CaoHuy26)
